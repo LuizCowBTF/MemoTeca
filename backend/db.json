@@ -10,7 +10,8 @@
       "id": 2,
       "conteudo": "Na minha máquina funciona!",
       "autoria": "Dev Sem Noção",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": false
     },
     {
       "id": 3,
