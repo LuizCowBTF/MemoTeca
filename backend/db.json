@@ -9,13 +9,13 @@
     {
       "id": 2,
       "conteudo": "Na minha máquina funciona!",
-      "autoria": "Dev da madrugada",
+      "autoria": "Dev Sem Noção",
       "modelo": "modelo2"
     },
     {
       "id": 3,
-      "conteudo": "Continue a codar... continue a codar...",
-      "autoria": "Dory programadora",
+      "conteudo": "Continue a nadar... continue a nadar...",
+      "autoria": "Luiz Claudio",
       "modelo": "modelo3"
     },
     {
@@ -28,7 +28,13 @@
       "id": 5,
       "conteudo": "Vocês nunca conseguirão saber como um piloto se sente quando vence uma prova. O capacete oculta sentimentos incompreensíveis.",
       "autoria": "Ayrton Senna",
-      "modelo": "modelo2"
+      "modelo": "modelo3"
+    },
+    {
+      "id": 6,
+      "conteudo": "Não existe talento sem treinamento.",
+      "autoria": "Oscar Schimdt",
+      "modelo": "modelo1"
     }
   ]
 }
